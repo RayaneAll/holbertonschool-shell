@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --no-preserve=all olleh hello
+cp --reference olleh hello
